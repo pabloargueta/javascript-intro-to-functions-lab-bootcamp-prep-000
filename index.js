@@ -1,5 +1,6 @@
 function shout(string) {
   return string.toUpperCase();
+<<<<<<< HEAD
 }
 
 function whisper(string) {
@@ -24,4 +25,6 @@ function sayHiToGrandma(string) {
   else if (string === 'I love you, Grandma.') {
     return 'I love you, too.';
   }
+=======
+>>>>>>> b5f6e74d4787a92fbf97eec056f46851d553bff2
 }
